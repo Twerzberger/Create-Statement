@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateStatements", "CreateStatements\CreateStatements.csproj", "{D70876DA-77C9-4BB3-A1DC-935D175BA043}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CreateStatementReport", "CreateStatementReport\CreateStatementReport.vdproj", "{C9FD6F99-C5F3-4C1B-B36F-C1BC62C7B18F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70876DA-77C9-4BB3-A1DC-935D175BA043}.Debug|x86.ActiveCfg = Debug|x86
+		{D70876DA-77C9-4BB3-A1DC-935D175BA043}.Debug|x86.Build.0 = Debug|x86
+		{D70876DA-77C9-4BB3-A1DC-935D175BA043}.Release|x86.ActiveCfg = Release|x86
+		{D70876DA-77C9-4BB3-A1DC-935D175BA043}.Release|x86.Build.0 = Release|x86
+		{C9FD6F99-C5F3-4C1B-B36F-C1BC62C7B18F}.Debug|x86.ActiveCfg = Debug
+		{C9FD6F99-C5F3-4C1B-B36F-C1BC62C7B18F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+08/01/2013 10:11 AM : Method:OpenSession(), Message:The QuickBooks user has denied access.
+
+08/01/2013 06:20 PM : Method:OpenSession(), Message:A modal dialog box is showing in the QuickBooks user interface. Your application cannot access QuickBooks until the user dismisses the dialog box.
+
+08/01/2013 08:02 PM : Method:OpenSession(), Message:A modal dialog box is showing in the QuickBooks user interface. Your application cannot access QuickBooks until the user dismisses the dialog box.
+
+08/02/2013 11:51 AM : Method:OpenSession(), Message:A modal dialog box is showing in the QuickBooks user interface. Your application cannot access QuickBooks until the user dismisses the dialog box.
+
+08/02/2013 12:20 PM : Method:OpenSession(), Message:A modal dialog box is showing in the QuickBooks user interface. Your application cannot access QuickBooks until the user dismisses the dialog box.
+
+08/02/2013 02:15 PM : No Data found for cutomerCook, Brian:Kitchen
+
+08/02/2013 02:17 PM : No Data found for cutomerCook, Brian:Kitchen
+
+08/02/2013 03:40 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 03:53 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 03:55 PM : No Data found for cutomerCook, Brian:Kitchen
+
+08/02/2013 04:00 PM : No Data found for cutomerCook, Brian:Kitchen
+
+08/02/2013 04:01 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 04:09 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 04:10 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 04:12 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 04:14 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 04:37 PM : Mail not sent to -bcook@samplename.comError-The specified string is not in the form required for an e-mail address.
+
+08/02/2013 05:12 PM : Method:OpenSession(), Message:A modal dialog box is showing in the QuickBooks user interface. Your application cannot access QuickBooks until the user dismisses the dialog box.
+
+08/02/2013 05:17 PM : Method:OpenSession(), Message:A modal dialog box is showing in the QuickBooks user interface. Your application cannot access QuickBooks until the user dismisses the dialog box.
+
+08/05/2013 12:28 AM : Method:OpenSession(), Message:A modal dialog box is showing in the QuickBooks user interface. Your application cannot access QuickBooks until the user dismisses the dialog box.
+

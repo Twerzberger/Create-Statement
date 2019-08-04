@@ -1,0 +1,94 @@
+12/05/2016 12:16 AM : invoice created for customer ACME SMOKED FISH CO - # 1
+
+12/05/2016 12:21 AM : invoice created for customer ACME SMOKED FISH CO - # 1
+
+12/05/2016 07:46 PM : invoice created for customer ACME SMOKED FISH CO - # 1
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #163296
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #163418
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #163528
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #163641
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #163765
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #163864
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #163929
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #164024
+
+12/05/2016 07:52 PM : invoice created for customer AHDOR FRESH FISH INC - #164166
+
+12/05/2016 07:52 PM : invoice created for customer APPEL FISH STORE - #163913
+
+12/05/2016 07:52 PM : invoice created for customer APPEL FISH STORE - #163968
+
+12/05/2016 07:52 PM : invoice created for customer APPEL FISH STORE - #164011
+
+12/05/2016 07:52 PM : invoice created for customer APPEL FISH STORE - #164076
+
+12/05/2016 07:52 PM : invoice created for customer APPEL FISH STORE - #164142
+
+12/05/2016 07:52 PM : invoice created for customer APPEL FISH STORE - #164217
+
+12/05/2016 07:52 PM : invoice created for customer APPEL FISH STORE - #164231
+
+12/05/2016 08:00 PM : Statement created for customer AHDOR FRESH FISH INC
+
+12/05/2016 08:00 PM : invoice created for customer AHDOR FRESH FISH INC - #163296
+
+12/05/2016 08:00 PM : invoice created for customer AHDOR FRESH FISH INC - #163418
+
+12/05/2016 08:01 PM : invoice created for customer AHDOR FRESH FISH INC - #163528
+
+12/05/2016 08:01 PM : invoice created for customer AHDOR FRESH FISH INC - #163641
+
+12/05/2016 08:01 PM : invoice created for customer AHDOR FRESH FISH INC - #163765
+
+12/05/2016 08:01 PM : invoice created for customer AHDOR FRESH FISH INC - #163864
+
+12/05/2016 08:01 PM : invoice created for customer AHDOR FRESH FISH INC - #163929
+
+12/05/2016 08:01 PM : invoice created for customer AHDOR FRESH FISH INC - #164024
+
+12/05/2016 08:01 PM : invoice created for customer AHDOR FRESH FISH INC - #164166
+
+12/05/2016 08:01 PM : Statement created for customer APPEL FISH STORE
+
+12/05/2016 08:01 PM : invoice created for customer APPEL FISH STORE - #163913
+
+12/05/2016 08:01 PM : invoice created for customer APPEL FISH STORE - #163968
+
+12/05/2016 08:01 PM : invoice created for customer APPEL FISH STORE - #164011
+
+12/05/2016 08:01 PM : invoice created for customer APPEL FISH STORE - #164076
+
+12/05/2016 08:01 PM : invoice created for customer APPEL FISH STORE - #164142
+
+12/05/2016 08:01 PM : invoice created for customer APPEL FISH STORE - #164217
+
+12/05/2016 08:01 PM : invoice created for customer APPEL FISH STORE - #164231
+
+12/05/2016 08:11 PM : Statement created for customer ACME SMOKED FISH CO
+
+12/05/2016 08:13 PM : invoice created for customer ACME SMOKED FISH CO - # 1
+
+12/05/2016 08:13 PM : Statement created for customer APPEL FISH STORE
+
+12/05/2016 08:13 PM : invoice created for customer APPEL FISH STORE - #163913
+
+12/05/2016 08:13 PM : invoice created for customer APPEL FISH STORE - #163968
+
+12/05/2016 08:13 PM : invoice created for customer APPEL FISH STORE - #164011
+
+12/05/2016 08:13 PM : invoice created for customer APPEL FISH STORE - #164076
+
+12/05/2016 08:13 PM : invoice created for customer APPEL FISH STORE - #164142
+
+12/05/2016 08:13 PM : invoice created for customer APPEL FISH STORE - #164217
+
+12/05/2016 08:13 PM : invoice created for customer APPEL FISH STORE - #164231
+

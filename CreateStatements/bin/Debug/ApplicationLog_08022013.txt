@@ -1,0 +1,26 @@
+08/02/2013 02:04 PM : Mail sent successfully to -bcook@samplename.com
+
+08/02/2013 02:17 PM : Mail sent successfully to -bcook@samplename.com
+
+08/02/2013 04:50 PM : Mail sent successfully to -bcook@samplename.com
+
+08/02/2013 05:01 PM : No Data found for cutomerCook, Brian:Kitchen
+
+08/02/2013 05:04 PM : Mail sent successfully to -bcook@samplename.com
+
+08/02/2013 05:05 PM : Mail sent successfully to -bcook@samplename.com
+
+08/02/2013 05:09 PM : No Data found for cutomerCook, Brian
+
+08/02/2013 05:12 PM : No Data found for cutomerCook, Brian
+
+08/02/2013 05:12 PM : No Data found for cutomerCook, Brian
+
+08/02/2013 05:18 PM : Mail sent successfully to -bcook@samplename.com
+
+08/02/2013 05:20 PM : Mail sent successfully to -bcook@samplename.com
+
+08/02/2013 05:25 PM : No Data found for cutomer Cook, Brian:Kitchen
+
+08/02/2013 05:26 PM : Mail sent successfully to -bcook@samplename.com
+

@@ -1,0 +1,36 @@
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Debug\CreateStatements.exe.config
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Debug\CreateStatements.exe
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Debug\CreateStatements.pdb
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Debug\itextsharp.dll
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.Configuration.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.CreateStatements.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.Properties.Resources.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.ViewLog.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.csproj.GenerateResource.Cache
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.exe
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.pdb
+D:\CreateStatements\CreateStatements\bin\Debug\CreateStatements.exe.config
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.exe
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.pdb
+D:\CreateStatements\CreateStatements\bin\Debug\CreateStatements.exe
+D:\CreateStatements\CreateStatements\bin\Debug\CreateStatements.pdb
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.csprojResolveAssemblyReference.cache
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.Configuration.resources
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.CreateStatements.resources
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.Properties.Resources.resources
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.ViewLog.resources
+D:\CreateStatements\CreateStatements\obj\x86\Debug\CreateStatements.csproj.GenerateResource.Cache
+D:\CreateStatements\CreateStatements\bin\Debug\itextsharp.dll
+D:\CreateStatements\CreateStatements\bin\Debug\itextsharp.xml
+G:\Windows\Create Statements\CreateStatements\bin\Debug\CreateStatements.exe.config
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.exe
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.pdb
+G:\Windows\Create Statements\CreateStatements\bin\Debug\CreateStatements.exe
+G:\Windows\Create Statements\CreateStatements\bin\Debug\CreateStatements.pdb
+G:\Windows\Create Statements\CreateStatements\bin\Debug\itextsharp.xml
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.csprojResolveAssemblyReference.cache
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.Configuration.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.CreateStatements.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.Properties.Resources.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.ViewLog.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Debug\CreateStatements.csproj.GenerateResource.Cache

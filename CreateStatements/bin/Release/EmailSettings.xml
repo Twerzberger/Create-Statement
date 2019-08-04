@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <LogoPath>D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Release\Logo\Logo.jpg</LogoPath>
+    <Footer>&lt;h5 style="font-family: Verdana;" &gt;The Test Sample Base Limited. , &lt;br/&gt; &lt;font color="#C53059"&gt;t:&lt;/font&gt; 09876 342154 &lt;font color="#C53059"&gt;e:&lt;/font&gt;  info@tsb.com &lt;font color="#C53059"&gt;w:&lt;/font&gt; www.tsb.com&lt;/h5&gt;
+&lt;h6 style="font-family: Verdana;"&gt;Registered in US No: 05e3423 VAT No:0923ert423&lt;/h6&gt;</Footer>
+    <Email>testexpsoltech2012@gmail.com</Email>
+    <Password>est$12345</Password>
+    <SMTP>smtp.gmail.com</SMTP>
+    <Port>587</Port>
+    <UseSSL>True</UseSSL>
+    <InternalMail>True</InternalMail>
+    <IMail>karthikeyan@expsoltech.com</IMail>
+    <MailContent>Your statement is attached.  Please remit payment at your earliest convenience.&lt;br/&gt;
+&lt;br/&gt;
+Thank you for your business - we appreciate it very much.&lt;br/&gt;
+&lt;br/&gt;
+Sincerely,&lt;br/&gt;&lt;br/&gt;
+
+The Hub PR &amp; Marketing Limited&lt;br/&gt;
+t: 01732 617070&lt;br/&gt;</MailContent>
+    <MailSub>Test Sub</MailSub>
+  </Settings>
+</NewDataSet>

@@ -1,0 +1,125 @@
+D:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+D:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+D:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+D:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+D:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+D:\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe.config
+D:\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe
+D:\CreateStatements\CreateStatements\bin\Release\CreateStatements.pdb
+D:\CreateStatements\CreateStatements\bin\Release\itextsharp.dll
+D:\CreateStatements\CreateStatements\bin\Release\itextsharp.xml
+D:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.exe
+D:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe.config
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\bin\Release\CreateStatements.pdb
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.exe
+D:\WorkSpace\Source\Windows\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+E:\Working\CreateStatements\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe.config
+E:\Working\CreateStatements\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe
+E:\Working\CreateStatements\CreateStatements\CreateStatements\bin\Release\CreateStatements.pdb
+E:\Working\CreateStatements\CreateStatements\CreateStatements\bin\Release\itextsharp.dll
+E:\Working\CreateStatements\CreateStatements\CreateStatements\bin\Release\itextsharp.xml
+E:\Working\CreateStatements\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+E:\Working\CreateStatements\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+E:\Working\CreateStatements\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+E:\Working\CreateStatements\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+E:\Working\CreateStatements\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+E:\Working\CreateStatements\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.exe
+E:\Working\CreateStatements\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe.config
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.exe
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\bin\Release\CreateStatements.pdb
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+D:\Karthikeyan\Personal\QB_Projects\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+F:\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe.config
+F:\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe
+F:\CreateStatements\CreateStatements\bin\Release\CreateStatements.pdb
+F:\CreateStatements\CreateStatements\bin\Release\itextsharp.dll
+F:\CreateStatements\CreateStatements\bin\Release\itextsharp.xml
+F:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+F:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+F:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+F:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+F:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+F:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.exe
+F:\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe.config
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.exe
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\bin\Release\CreateStatements.pdb
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+C:\Users\estsys\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe.config
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.exe
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\bin\Release\CreateStatements.exe
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\bin\Release\CreateStatements.pdb
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\bin\Release\itextsharp.dll
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\bin\Release\itextsharp.xml
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+C:\Users\Karthik\Desktop\CreateStatements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+E:\Working\CreateStatements-Final\CreateStatements\bin\Release\CreateStatements.exe.config
+E:\Working\CreateStatements-Final\CreateStatements\obj\x86\Release\CreateStatements.exe
+E:\Working\CreateStatements-Final\CreateStatements\obj\x86\Release\CreateStatements.pdb
+E:\Working\CreateStatements-Final\CreateStatements\bin\Release\CreateStatements.exe
+E:\Working\CreateStatements-Final\CreateStatements\bin\Release\CreateStatements.pdb
+E:\Working\CreateStatements-Final\CreateStatements\bin\Release\itextsharp.dll
+E:\Working\CreateStatements-Final\CreateStatements\bin\Release\itextsharp.xml
+E:\Working\CreateStatements-Final\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+E:\Working\CreateStatements-Final\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+E:\Working\CreateStatements-Final\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+E:\Working\CreateStatements-Final\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+E:\Working\CreateStatements-Final\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+G:\Windows\Create Statements\CreateStatements\bin\Release\CreateStatements.exe.config
+G:\Windows\Create Statements\CreateStatements\bin\Release\CreateStatements.exe
+G:\Windows\Create Statements\CreateStatements\bin\Release\CreateStatements.pdb
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.exe
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+G:\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.csprojResolveAssemblyReference.cache
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\bin\Release\CreateStatements.exe.config
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\bin\Release\CreateStatements.exe
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\bin\Release\CreateStatements.pdb
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.csprojResolveAssemblyReference.cache
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.Cache
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.exe
+F:\DellLptp-Backup\G-Disk\Windows\Create Statements\CreateStatements\obj\x86\Release\CreateStatements.pdb
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.csprojAssemblyReference.cache
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.Configuration.resources
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.CreateStatements.resources
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.Properties.Resources.resources
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.ViewLog.resources
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.csproj.GenerateResource.cache
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.csproj.CoreCompileInputs.cache
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.exe
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.pdb
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\bin\Release\CreateStatements.exe.config
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\bin\Release\CreateStatements.exe
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\bin\Release\CreateStatements.pdb
+C:\Users\twerzberger\source\repos\karthi89msc-create-statements-1b72b1515578\CreateStatements\obj\x86\Release\CreateStatements.csproj.CopyComplete

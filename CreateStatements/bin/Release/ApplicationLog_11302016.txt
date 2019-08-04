@@ -1,0 +1,4 @@
+11/30/2016 10:18 PM : invoice created for customer ACME SMOKED FISH CO - # 1
+
+11/30/2016 10:22 PM : invoice created for customer ACME SMOKED FISH CO - # 1
+
